@@ -45,6 +45,7 @@ var FrameMap = map[string]FrameType{
 	"can-you-hear-me": Rick,
 	"clock":           Clock,
 	"coin":            Coin,
+	"daren":           Daren,
 	"donut":           Donut,
 	"dvd":             Dvd,
 	"forrest":         Forrest,
